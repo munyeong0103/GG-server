@@ -14,6 +14,9 @@
 
 #### Deployment Link
 https://ground-guardians.vercel.app
+<br/>
+Check out our introduction video !
+➡️ https://www.youtube.com/watch?v=Zdc82Z5UkSo
 
 <br/>
 <br/>
@@ -65,8 +68,6 @@ yarn dev
 <br/>
 <img src="https://github.com/GroundGuardians/.github/assets/89023026/35608150-af75-4d0e-95d5-774336486fb3" height="350"/></p>
 <br/>
-Check out our introduction video !
-➡️ https://www.youtube.com/watch?v=Zdc82Z5UkSo
 
 
 ## 📜 Reference
